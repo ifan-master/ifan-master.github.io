@@ -3,11 +3,11 @@
   <title>iFan</title>
   
   
-  <link href="http://ifan-blog.cn/atom.xml" rel="self"/>
+  <link href="http://www.ifan-blog.cn/atom.xml" rel="self"/>
   
-  <link href="http://ifan-blog.cn/"/>
+  <link href="http://www.ifan-blog.cn/"/>
   <updated>2021-08-10T06:16:22.674Z</updated>
-  <id>http://ifan-blog.cn/</id>
+  <id>http://www.ifan-blog.cn/</id>
   
   <author>
     <name>iFan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>linux部署GitHub、hexo博客</title>
-    <link href="http://ifan-blog.cn/posts/null/"/>
-    <id>http://ifan-blog.cn/posts/null/</id>
+    <link href="http://www.ifan-blog.cn/posts/null/"/>
+    <id>http://www.ifan-blog.cn/posts/null/</id>
     <published>2021-08-10T06:16:22.674Z</published>
     <updated>2021-08-10T06:16:22.674Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="hexo" scheme="http://ifan-blog.cn/categories/hexo/"/>
+    <category term="hexo" scheme="http://www.ifan-blog.cn/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="http://ifan-blog.cn/tags/hexo/"/>
+    <category term="hexo" scheme="http://www.ifan-blog.cn/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://ifan-blog.cn/posts/undefined/"/>
-    <id>http://ifan-blog.cn/posts/undefined/</id>
+    <link href="http://www.ifan-blog.cn/posts/undefined/"/>
+    <id>http://www.ifan-blog.cn/posts/undefined/</id>
     <published>2021-05-31T13:00:29.550Z</published>
     <updated>2021-05-31T13:00:29.550Z</updated>
     

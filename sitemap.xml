@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ifan-blog.cn/posts/null/</loc>
+    <loc>http://www.ifan-blog.cn/posts/null/</loc>
     
     <lastmod>2021-08-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/music/index.html</loc>
+    <loc>http://www.ifan-blog.cn/music/index.html</loc>
     
     <lastmod>2021-08-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/movies/index.html</loc>
+    <loc>http://www.ifan-blog.cn/movies/index.html</loc>
     
     <lastmod>2021-06-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/about/index.html</loc>
+    <loc>http://www.ifan-blog.cn/about/index.html</loc>
     
     <lastmod>2021-06-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/link/index.html</loc>
+    <loc>http://www.ifan-blog.cn/link/index.html</loc>
     
     <lastmod>2021-06-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/categories/index.html</loc>
+    <loc>http://www.ifan-blog.cn/categories/index.html</loc>
     
     <lastmod>2021-06-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/tags/index.html</loc>
+    <loc>http://www.ifan-blog.cn/tags/index.html</loc>
     
     <lastmod>2021-06-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifan-blog.cn/posts/undefined/</loc>
+    <loc>http://www.ifan-blog.cn/posts/undefined/</loc>
     
     <lastmod>2021-05-31</lastmod>
     
@@ -59,7 +59,7 @@
   
 
   <url>
-    <loc>http://ifan-blog.cn/</loc>
+    <loc>http://www.ifan-blog.cn/</loc>
     <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -67,7 +67,7 @@
 
   
   <url>
-    <loc>http://ifan-blog.cn/tags/hexo/</loc>
+    <loc>http://www.ifan-blog.cn/tags/hexo/</loc>
     <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   
   <url>
-    <loc>http://ifan-blog.cn/categories/hexo/</loc>
+    <loc>http://www.ifan-blog.cn/categories/hexo/</loc>
     <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
