@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.ifan-blog.cn/comment/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ifan-blog.cn/music/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ifan-blog.cn/tags/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ifan-blog.cn/movies/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ifan-blog.cn/link/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ifan-blog.cn/categories/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ifan-blog.cn/about/index.html</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.ifan-blog.cn/posts/4a17b156/</loc>
     
     <lastmod>2021-08-13</lastmod>
@@ -12,48 +61,6 @@
     <loc>http://www.ifan-blog.cn/posts/d01afe7f/</loc>
     
     <lastmod>2021-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ifan-blog.cn/music/index.html</loc>
-    
-    <lastmod>2021-08-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ifan-blog.cn/movies/index.html</loc>
-    
-    <lastmod>2021-06-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ifan-blog.cn/about/index.html</loc>
-    
-    <lastmod>2021-06-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ifan-blog.cn/link/index.html</loc>
-    
-    <lastmod>2021-06-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ifan-blog.cn/categories/index.html</loc>
-    
-    <lastmod>2021-06-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ifan-blog.cn/tags/index.html</loc>
-    
-    <lastmod>2021-06-01</lastmod>
     
   </url>
   
